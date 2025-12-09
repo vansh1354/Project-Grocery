@@ -1,5 +1,6 @@
 # Project-Grocery
 This Project is on Grocery App
+If you face any issue opening it so just download the project.rar raw file and after download extract it in your pc using winrar and then try opening index.html it will surely work.
 <img width="1904" height="881" alt="Features" src="https://github.com/user-attachments/assets/d7489a87-98df-4934-ae24-eaa333cf0760" />
 <img width="1884" height="835" alt="Products" src="https://github.com/user-attachments/assets/e05aaecc-3b4e-49b4-b1f3-cc240e7163cc" />
 <img width="1893" height="820" alt="Categories" src="https://github.com/user-attachments/assets/ba8c535b-8809-4e98-9916-64f30e927719" />
